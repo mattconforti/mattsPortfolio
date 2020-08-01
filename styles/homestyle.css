@@ -53,3 +53,13 @@ hr {
     float: left;
     width: 100%;
 }
+
+#grid_container {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto auto;
+}
+
+.grid_item {
+    text-align: center;
+}
