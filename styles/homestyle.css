@@ -1,6 +1,7 @@
 #header {
     float: left;
     width: 100%;
+    margin-bottom: 35px;
 }
 
 #name_section {
@@ -22,7 +23,7 @@ h1 {
     flex-wrap: nowrap;
     justify-content: space-evenly;
     align-items: stretch;
-    padding-top: 67px;
+    padding-top: 71px;
     padding-left: 150px;
 }
 
