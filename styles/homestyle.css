@@ -8,7 +8,7 @@
     float: left;
     width: 500px;
     padding-top: 25px;
-    padding-left: 50px;
+    padding-left: 100px;
 }
 
 h1 {
@@ -46,10 +46,29 @@ h1 {
 
 hr {
     margin-top: 100px;
-    margin-bottom: 300px;
+    margin-bottom: 125px;
 }
 
 #content {
     float: left;
     width: 100%;
+}
+
+#grid_container {
+    display: grid;
+    grid-template-columns: 900px;
+    grid-template-rows: auto auto;
+    gap: 50px;
+    justify-content: center;
+}
+
+.grid_item {
+    background-color: lightgrey;
+    text-align: center;
+    padding: 30px;
+}
+
+#footer {
+    margin-top: 100px;
+    text-align: center;
 }
