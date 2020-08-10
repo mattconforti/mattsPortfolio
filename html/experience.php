@@ -1,31 +1,17 @@
+<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Matthew Conforti</title>
+        <title>Matthew Conforti - Experience</title>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Raleway:wght@100&family=Roboto&display=swap">
-        <link rel="stylesheet" href="styles/homestyle.css">
+        <link rel="stylesheet" href="../styles/homestyle.css">
     </head>
     <body>
-        <div id="header">
-            <div id="name_section">
-                <h1>Matthew Conforti</h1>
-            </div>
-            <div id="menu">
-                <div>
-                    <a href="index.html">About</a>
-                </div>
-                <div>
-                    <a href="#experienceSection">Experience</a>
-                </div>
-                <div>
-                    <a href="#projectsSection">Projects</a>
-                </div>
-                <div>
-                        <a href="#contactSection">Contact</a>
-                </div>
-            </div>
-        </div>
+        <?php
+            //include the header
+            include('../includes/header.php');
+        ?>
         <hr>
         <div id="grid_container">
             <div class="grid_item">
