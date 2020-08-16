@@ -68,9 +68,11 @@ hr {
     padding: 30px;
 }
 
-#experience_grid {
+#ex_grid_container {
     display: grid;
-    grid-template-columns: 300px 300px;
+    grid-template-columns: 425px 425px;
+    grid-template-rows: auto auto auto;
+    gap: 50px;
     justify-content: center;
 }
 

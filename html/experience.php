@@ -13,17 +13,29 @@
             include('../includes/header.php');
         ?>
         <hr>
-        <div id="grid_container">
+        <div id="ex_grid_container">
             <div class="grid_item">
-                <h2>Intro</h2>
+                <h2>1</h2>
                 <p>This is some content</p>
             </div>
             <div class="grid_item">
-                <h2>About</h2>
+                <h2>2</h2>
                 <p>This is some content</p>
             </div>
             <div class="grid_item">
-                <h2>Technical Skills</h2>
+                <h2>3</h2>
+                <p>This is some content</p>
+            </div>
+            <div class="grid_item">
+                <h2>4</h2>
+                <p>This is some content</p>
+            </div>
+            <div class="grid_item">
+                <h2>5</h2>
+                <p>This is some content</p>
+            </div>
+            <div class="grid_item">
+                <h2>6</h2>
                 <p>This is some content</p>
             </div>
         </div>
