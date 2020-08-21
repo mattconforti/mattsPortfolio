@@ -24,7 +24,21 @@
             </div>
             <div class="grid_item">
                 <h2>Technical Skills</h2>
-                <p>This is some content</p>
+                <p>C/C++</p>
+                <p>C#</p>
+                <p>CASM (machine language)</p>
+                <p>Python</p>
+                <p>Java</p>
+                <p>SQL (MySQL, T-SQL, SSIS, SSRS, SQLite)</p>
+                <p>HTML</p>
+                <p>CSS</p>
+                <p>Javascript</p>
+                <p>jQuery</p>
+                <p>Prolog</p>
+                <p>Lisp</p>
+                <p>Microsoft Office</p>
+                <p>Google Services</p>
+                <p>general computer knowledge</p>
             </div>
         </div>
         <div id="footer">

@@ -10,10 +10,10 @@
             <a href="/mattsPortfolio/html/experience.php">Experience</a>
         </div>
         <div>
-            <a href="#projectsSection">Projects</a>
+            <a href="/mattsPortfolio/html/projects.php">Projects</a>
         </div>
         <div>
-            <a href="#contactSection">Contact</a>
+            <a href="/mattsPortfolio/html/contact.php">Contact</a>
         </div>
     </div>
 </div>
