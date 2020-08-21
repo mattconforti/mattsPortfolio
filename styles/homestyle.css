@@ -68,12 +68,17 @@ hr {
     padding: 30px;
 }
 
-#ex_grid_container {
+#p_grid_container {
     display: grid;
     grid-template-columns: 425px 425px;
     grid-template-rows: auto auto auto;
     gap: 50px;
     justify-content: center;
+}
+
+.logo {
+    height: 200px;
+    width: 200px;
 }
 
 #footer {

@@ -13,30 +13,18 @@
             include('../includes/header.php');
         ?>
         <hr>
-        <div id="ex_grid_container">
+        <div id="grid_container">
             <div class="grid_item">
-                <h2>1</h2>
-                <p>This is some content</p>
-            </div>
-            <div class="grid_item">
-                <h2>2</h2>
-                <p>This is some content</p>
-            </div>
-            <div class="grid_item">
-                <h2>3</h2>
-                <p>This is some content</p>
-            </div>
-            <div class="grid_item">
-                <h2>4</h2>
-                <p>This is some content</p>
-            </div>
-            <div class="grid_item">
-                <h2>5</h2>
-                <p>This is some content</p>
-            </div>
-            <div class="grid_item">
-                <h2>6</h2>
-                <p>This is some content</p>
+                <h2>M&T Bank</h2>
+                <p>Data Analytics Intern</p>
+                <p>Buffalo, New York</p>
+                <p>May 2018 - August 2018</p>
+                <img class="logo" src="../images/m&t.jpg" alt="m&t bank logo">
+                <p>- Responsible for a portion of the bank’s semi-annual stress test to be submitted to the Federal Reserve</p>
+                <p>- Converted existing processes in Statistical Analysis System (SAS) and Matrix Laboratory (MATLAB) to Structured Query Language (SQL)</p>
+                <p>- Improved those processes’ functionality, efficiency, and ease of use</p>
+                <p>- Calculated the Mark-to-market of the bank’s Securities Portfolio and valuated those assets using the Quantitative Risk Management (QRM) software</p>
+                <!-- style all this better ^ and make sure rest of paragraphs and text have good fonts -->
             </div>
         </div>
         <div id="footer">
