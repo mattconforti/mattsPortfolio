@@ -9,14 +9,14 @@
     </head>
     <body>
         <?php
-            //include the header
+            // include the header
             include('includes/header.php');
         ?>
         <hr>
         <div id="grid_container">
             <div class="grid_item">
                 <h2>Intro</h2>
-                <p>This is some content</p>
+                <p>Hi! My name is Matt Conforti.</p>
             </div>
             <div class="grid_item">
                 <h2>About</h2>
@@ -41,8 +41,9 @@
                 <p>general computer knowledge</p>
             </div>
         </div>
-        <div id="footer">
-            <a href="#top">back to top</a>
-        </div>
+        <?php
+            // include the footer
+            include('includes/footer.php');
+        ?>
     </body>
 </html>

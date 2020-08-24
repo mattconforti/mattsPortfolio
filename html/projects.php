@@ -9,7 +9,7 @@
     </head>
     <body>
         <?php
-            //include the header
+            // include the header
             include('../includes/header.php');
         ?>
         <hr>
@@ -39,8 +39,9 @@
                 <p>This is some content</p>
             </div>
         </div>
-        <div id="footer">
-            <a href="#top">back to top</a>
-        </div>
+        <?php
+            // include the footer
+            include('../includes/footer.php');
+        ?>
     </body>
 </html>
