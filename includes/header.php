@@ -1,6 +1,7 @@
 <div id="header">
     <div id="name_section">
         <h1>Matthew Conforti</h1>
+        <!-- make this link to about page?? ^^ ?? how to make a header be a link and still be styled normally?? -->
     </div>
     <div id="menu">
         <div>

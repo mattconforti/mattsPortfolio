@@ -9,7 +9,7 @@
     </head>
     <body>
         <?php
-            //include the header
+            // include the header
             include('../includes/header.php');
         ?>
         <hr>
@@ -27,8 +27,9 @@
                 <!-- style all this better ^ and make sure rest of paragraphs and text have good fonts -->
             </div>
         </div>
-        <div id="footer">
-            <a href="#top">back to top</a>
-        </div>
+        <?php
+            // include the footer
+            include('../includes/footer.php');
+        ?>
     </body>
 </html>
